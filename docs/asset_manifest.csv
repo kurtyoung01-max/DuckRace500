@@ -1,2 +1,8 @@
 asset_name,filename,folder,local_path,notes,added_utc,github_url
-Tikitorch,Tikitorch.png,images,images/Tikitorch.png,Initial uploaded tiki torch asset,2026-04-03T06:28:52Z,
+Tikitorch,Tikitorch.png,images,images/Tikitorch.png,Initial uploaded tiki torch asset,2026-04-03T06:28:52Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/Tikitorch.png
+Sydney Background,Sydney Background .png,images,images/Sydney Background .png,Sydney city background scene,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/Sydney%20Background%20.png
+Duck,duck.png,images,images/duck.png,Duck racing sprite,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/duck.png
+Duck Race Main Background,duckrace_main_background_1920x1080.png,images,images/duckrace_main_background_1920x1080.png,Main race track background 1920x1080,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/duckrace_main_background_1920x1080.png
+Logo,logo.png,images,images/logo.png,Duck Race 500 game logo,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/logo.png
+Sponsor Board Scary Canary 01,sponsor_board_scary_canary_01.png,images,images/sponsor_board_scary_canary_01.png,Scary Canary sponsor board asset,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/sponsor_board_scary_canary_01.png
+Start Line,start line.png,images,images/start line.png,Race start line asset,2026-05-15T00:00:00Z,https://github.com/kurtyoung01-max/DuckRace500/blob/main/images/start%20line.png
